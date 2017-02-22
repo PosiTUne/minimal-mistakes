@@ -239,6 +239,7 @@ whitelist:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-archives # https://github.com/jekyll/jekyll-archives
 
 
 # Archives
