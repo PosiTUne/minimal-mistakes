@@ -127,6 +127,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "YouTube"
+      icon: "fab fa-youtube"
+      url: "https://www.youtube.com/channel/UCC9PqrkrxSpWjhgzAHwqw2Q"
 
 # Site Footer
 footer:
@@ -139,7 +142,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/PosiTUne"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
