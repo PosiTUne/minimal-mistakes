@@ -103,7 +103,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "PosiTUne Saxonia"
+  name             : "Team PosiTUne Saxonia"
   avatar           : "/assets/images/PosiTUne_Logo_400px_40px.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "CanSat-Team des DLR_School_Lab TU Dresden"
   location         : "Dresden"
@@ -128,8 +128,11 @@ author:
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
     - label: "YouTube"
-      icon: "fab fa-youtube"
+      icon: "fab fa-fw fa-youtube"
       url: "https://www.youtube.com/channel/UCC9PqrkrxSpWjhgzAHwqw2Q"
+    - label: "CanSat"
+      icon: "fas fa-fw fa-rocket"
+      url: "https://www.cansat.de/"
 
 # Site Footer
 footer:
