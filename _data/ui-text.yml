@@ -412,7 +412,7 @@ de: &DEFAULT_DE
   pagination_next            : "Nächste"
   breadcrumb_home_label      : "Start"
   breadcrumb_separator       : "/"
-  menu_label                 : "Menü ein-/ausschalten"
+  menu_label                 : "Menü ein-/ausblenden"
   toc_label                  : "Auf dieser Seite"
   ext_link_label             : "Direkter Link"
   less_than                  : "weniger als"
