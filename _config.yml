@@ -108,6 +108,7 @@ author:
   bio              : "CanSat-Team 2017 des DLR_School_Lab TU Dresden"
   location         : # "Dresden"
   email            : "earthturadios[ät]gmail[punkt]com"
+  pgp              :
   flattr           : "off"
   links:
     - label: "Email"
