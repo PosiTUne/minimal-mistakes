@@ -67,8 +67,9 @@ Jan:
 
 Janek:
     name            : "Janek"
-    bio             : "Teamchef, Hardware Bodenstation, Finanzierung"
-
+    bio             : "Hardware, Analog-Kram"
+    email           : "do3oa[ät]darc[pünktchen]de"
+    github          : "DO3OA"
 Janina:
     name            : "Janina"
     bio             : "Leiterin DLR_School_Lab TU Dresden"
