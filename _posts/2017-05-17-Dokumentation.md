@@ -8,7 +8,7 @@ header:
   teaser: 
 ---
  
-Heute haben wir uns im DLR_School_Lab TU Dresden in den Technischen Sammlungen getroffen. Nachdem ein halbes Dutzend neuer Computer eingerichtet wurden, fingen wir an, die Prozessoren zu erwärmen. Wir stellten Recherchen an, welches Material für den Fallschirm des Satelliten am besten geeignet ist. Außerdem haben wir erstmals einen Microcomputer ([Raspberry Pi](https://www.raspberrypi.org)) unseren Computern verbunden und kennen gelernt. Im Anschluss erstellten wir einen Plan bis zum Zwischenbericht und verteilten die weiteren Aufgaben:
+Heute haben wir uns im DLR_School_Lab TU Dresden in den [Technischen Sammlungen](http://www.tsd.de/) getroffen. Nachdem ein halbes Dutzend neuer Computer eingerichtet wurden, fingen wir an, die Prozessoren zu erwärmen. Wir stellten Recherchen an, welches Material für den Fallschirm des Satelliten am besten geeignet ist. Außerdem haben wir erstmals einen Microcomputer ([Raspberry Pi](https://www.raspberrypi.org)) unseren Computern verbunden und kennen gelernt. Im Anschluss erstellten wir einen Plan bis zum Zwischenbericht und verteilten die weiteren Aufgaben:
 
  - Konstruktion des Satelliten ohne Teile (schraubbar, mit Heißkleber, in Ebenen, auf einer Seite, verteilt auf beiden Seiten etc.) (Max und Dominik)
  - Welchen Microcomputer nutzen wir? ([Pi](https://www.raspberrypi.org) oder [Arduino](https://www.arduino.cc)?) (unsere Programmierer: Elias, Till, Janek und Fabian)
