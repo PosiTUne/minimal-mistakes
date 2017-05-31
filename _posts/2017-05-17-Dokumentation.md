@@ -2,7 +2,7 @@
 author: Dominik
 category: Treffen
 tags: [Zwischenbericht, Raspberry Pi, Arduino, Turmfest]
-title: Nächste Stationen: Zwischenbericht und Turmfest
+title: "Nächste Stationen: Zwischenbericht und Turmfest"
 excerpt:
 header:
   teaser: 
