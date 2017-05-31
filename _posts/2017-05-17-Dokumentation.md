@@ -1,12 +1,12 @@
-+---
- +author: Dominik
- +category: Dokumentation
- +tags:
- +title: Treff: 17.05.2017
- +excerpt:
- +header:
- +  teaser: 
- +---
+---
+author: Dominik
+category: Treffen
+tags: [Zwischenbericht, Raspberry Pi, Arduino, Turmfest]
+title: Nächste Stationen: Zwischenbericht und Turmfest
+excerpt:
+header:
+  teaser: 
+---
  
 Heute haben wir uns im DLR_School_Lab TU Dresden in den Technischen Sammlungen Dresden getroffen. Nachdem ein halbes Dutzend neuer Computer eingerichtet wurden, fingen wir an, die Prozessoren zu erwärmen. Wir stellten Recherchen an, welches Material für den Fallschirm des Satelliten am besten geeignet ist. Außerdem haben wir erstmals einen Microcomputer (Rasberry Pi) mit dem Computer verbunden und kennen gelernt. Im Anschluss erstellten wir einen Plan bis zum Zwischenbericht und verteilten die weiteren Aufgaben:
 
