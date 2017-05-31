@@ -77,8 +77,9 @@ Jan:
 
 Janek:
     name            : "Janek"
-    bio             : "Teamchef, Hardware Bodenstation, Finanzierung"
+    bio             : "Teamchef, Hardware, Bodenstation"
     email           : "janek@positune.space"
+    PGP             : "http://scatterpoint.de/pgp.txt"
 
 Janina:
     name            : "Janina"
