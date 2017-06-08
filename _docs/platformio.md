@@ -14,7 +14,6 @@ header:
 
 ## PlatformIO installieren
 
-
 Zuerst [Linuxbrew](http://linuxbrew.sh/) installieren:
 
     $ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Linuxbrew/install/master/install)"
