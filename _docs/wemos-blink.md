@@ -15,7 +15,7 @@ Der Wemos D1 mini besitzt eine blaue LED in der Nähe des TX-Pins.
     </figcaption>
 </figure>
 
-Die Onboard-LED ist mit dem [digitalen Ein- und Ausgang ```D4```](http://escapequotes.net/wemos-d1mini-arduinoide/) verbunden.
+Die Onboard-LED ist mit dem [digitalen Ein- und Ausgang D4](http://escapequotes.net/wemos-d1mini-arduinoide/) verbunden. Statt ```D4``` zu schreiben kann man den LED-Pin auch mit der vordefinierten Konstante ```BUILTIN_LED``` ansteuern.
 
 {% gist jdieg0/b9b9907df9251bbfe9527bf33f4cada1 %}
 
