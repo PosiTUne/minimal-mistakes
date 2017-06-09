@@ -69,7 +69,7 @@ Das Screen-Fenster kann man mit ```Strg + a``` ```k``` schließen (mit ```y``` b
 </div>
 
 {% capture notice-waerme %}
-Die sonst praktische Steckmöglichkeit der Wemos-Platinen erweist sich hier eher als Nachteil. Die Wärmeabstrahlung des Wemos D1 Mini ist nicht ganz unbeträchtlich, vor allem über die eng beeinander liegenden Masse-Pins (GND) beider Boards wird der BMP180-Temperatursensor stark erwärmt.
+Die sonst praktische Steckmöglichkeit der Wemos-Platinen erweist sich hier eher als Nachteil. Die Wärmeabstrahlung des Wemos D1 Mini ist nicht ganz unbeträchtlich, vor allem über die eng beieinander liegenden Masse-Pins (GND) beider Boards wird der BMP180-Temperatursensor stark erwärmt.
 
 <figure>
     <a href="/assets/images/docs/wemos-d1-mini_bmp180-shield_gesteckt.jpg"><img src="/assets/images/docs/wemos-d1-mini_bmp180-shield_gesteckt.jpg" alt="Foto des BMP180-Shields zusammengesteckt mit einem Wemos D1 Mini"></a>
