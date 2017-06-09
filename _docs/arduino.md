@@ -20,4 +20,5 @@ Hier werden verschiedene Anleitungen rund um das Thema [Arduino](https://www.ard
 ### Wemos D1 mini
 
 - [Blinkende LED](/docs/arduino/wemos-blink/)
+- [Drucksensor BMP180](/docs/arduino/wemos-bmp180/)
 
