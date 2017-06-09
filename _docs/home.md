@@ -1,5 +1,5 @@
 ---
-permalink: /docs/home/
+permalink: /docs/
 title: Dokumentation
 ---
 {% include toc icon="rocket" title="Dokumentation" %}
