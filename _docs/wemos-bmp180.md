@@ -86,7 +86,7 @@ Falls zuverlässigere Temperaturwerte gebraucht werden, sollte man das [Dual-Bas
 
 ## Weiterführende Links
 
-- [BMP180-Shield bei *ESP8266 Learning*](http://www.esp8266learning.com/wemos-mini-bmp180-shield.php)
 - [Adafruit-Tutorial „Using the BMP (API v2)“](https://learn.adafruit.com/bmp085/using-the-bmp085-api-v2)
 - [*Bibliothek Adafruit BMP085 Unified* bei PlatformIO](http://platformio.org/lib/show/16/Adafruit%20BMP085%20Unified)
 - [Arduino-Befehlsreferenz für die serielle Kommunikation mit *Serial*](https://www.arduino.cc/en/Reference/Serial)
+- [BMP180-Shield bei *ESP8266 Learning*](http://www.esp8266learning.com/wemos-mini-bmp180-shield.php)
