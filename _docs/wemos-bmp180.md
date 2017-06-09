@@ -62,7 +62,7 @@ Druck: 996.91 hPa, Temperatur: 29.40 *C
 </div>
 
 {% capture notice-screen %}
-Das Screen-Fenster kann man mit ```Strg + a k``` schließen (mit ```y``` bestätigen).
+Das Screen-Fenster kann man mit ```Strg + a``` ```k``` schließen (mit ```y``` bestätigen).
 {% endcapture %}
 <div class="notice--info">
 	{{ notice-screen | markdownify }}
