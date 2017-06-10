@@ -5,7 +5,7 @@ main:
     - title: "Mission"
       url: /mission/
     - title: "Dokumentation"
-      url: /docs/home/
+      url: /docs/
     - title: "Sponsoren"
       url: /sponsoren/
     - title: "CanSat 2016"
