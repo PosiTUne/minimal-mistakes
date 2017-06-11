@@ -11,7 +11,7 @@ title: "Tags"
   <h2 id="{{ tag | slugify }}" class="archive__subtitle">{{ tag }}</h2>
   <div class="grid__wrapper">
     {% for post in posts %}
-      {% include archive-single.html type="grid" %}
+      {% include archive-single.html %}
     {% endfor %}
   </div>
 {% endfor %}
