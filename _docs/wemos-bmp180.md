@@ -1,11 +1,13 @@
 ---
-permalink: /docs/arduino/wemos-bmp180/
+permalink: /docs/arduino/wemos-bmp180-shield/
 title: "Drucksensor BMP180"
 # tags: Arduino Sketch Programmierung ESP8266 Wemos PlatformIO BMP180
 author_profile: true
 author: Diego
 comments: true
 ---
+{% include toc %}
+
 Das BMP180-Shield für den Wemos D1 Mini nutzt die Pins D1 (SCL) und D2 (SDA) für die Kommunikation via I<sup>2</sup>C. Praktischerweise ist bereits eine Bibliothek namens [*Adafruit_BMP085_Unified*](https://github.com/adafruit/Adafruit_BMP085_Unified) vorhanden, mit der sich der Drucksensor sehr einfach auslesen lässt. Zusammen mit der Temperatur, die der Sensor auch liefert, lässt sich die Höhe bestimmen, in der sich der Sensor befindet.
 
 <figure>
