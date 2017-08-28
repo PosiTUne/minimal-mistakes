@@ -1,8 +1,8 @@
 ---
 permalink: /team/
+title: "Team"
 author_profile: true
 ---
-# Über uns
 Hallo an alle! Wir sind das Team PosiTUne Saxonia! 
 
 [![Teamfoto des Teams PosiTUne Saxonia]({{ site.url }}{{ site.baseurl }}/assets/images/team-2017_300px.jpg){: .align-right}]({{ site.url }}{{ site.baseurl }}/assets/images/team-2017_2048px.jpg)
