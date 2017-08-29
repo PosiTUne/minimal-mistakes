@@ -1,5 +1,6 @@
 ---
 permalink: /mission/
+title: "Mission"
 author_profile: true
 ---
 Bei Landemissionen im Weltraum ist es wichtig, die Geschwindigkeit sowie Bewegungsrichtung des Landers möglichst genau zu bestimmen. Hierfür existieren bereits verschiedene Systeme für den Einsatz im Vakuum.
