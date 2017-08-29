@@ -189,6 +189,7 @@ gems:
   - jemoji
 # - jekyll-paginate-v2
 # - jekyll-archives # https://github.com/jekyll/jekyll-archives
+  - jekyll-redirect-from
 
 # mimic GitHub Pages with --safe
 whitelist:
