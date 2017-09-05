@@ -1,5 +1,5 @@
 ---
-permalink: /docs/raspberrypi/neopixel
+permalink: /docs/raspberrypi/neopixel/
 title: "Neopixel (WS2812)"
 # tags: Programmierung, Neopixel, WS2812, LED
 author_profile: true
