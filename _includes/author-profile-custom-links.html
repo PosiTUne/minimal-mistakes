@@ -20,3 +20,11 @@
         </a>
     </li>
 {% endif %}
+
+{% if author.crowdfunding %}
+    <li>
+        <a href="{{ author.crowdfunding }}" itemprop="sameAs">
+            <i class="fa fa-fw fa-users" aria-hidden="true"></i> Crowdfunding
+        </a>
+    </li>
+{% endif %}
