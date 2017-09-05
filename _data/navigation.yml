@@ -54,3 +54,5 @@ docs:
       children:
         - title: "Arduino"
           url: /docs/arduino/
+        - title: "Raspberry Pi"
+          url: /docs/raspberrypi/
