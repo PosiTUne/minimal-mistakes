@@ -20,3 +20,4 @@ Außerdem entsteht in diesem Bereich im Zuge der CanSat-Mission eine kleine Wiss
 ### Wissensrubriken
 
 - [Arduino](/docs/arduino/)
+- [Raspberry Pi](/docs/raspberrypi/)
