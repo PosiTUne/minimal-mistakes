@@ -175,7 +175,7 @@ sass:
 
 
 # Outputting
-permalink: /artikel/:categories/:title #/:year/:month/:day/:title/ # date, /:year/:month/:day/:title/, /:categories/:title/
+permalink: /artikel/:year/:month/:day/:title/  #/:year/:month/:day/:title/ # date, /:year/:month/:day/:title/, /artikel/:categories/:title 
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
