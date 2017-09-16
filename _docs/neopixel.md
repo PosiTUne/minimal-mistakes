@@ -15,6 +15,7 @@ Mit Hilfe der Bibliothek [*rpi_ws281x*][ws281x] lassen sich aber auch mit Python
 
 Für die Installation der Python-Bibliothek müssen folgende Pakete installiert sein:
 
+    $ sudo apt-get update
     $ sudo apt-get install build-essential python-dev git scons swig
 
 Die Bibliothek wird installiert mit:
