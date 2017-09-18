@@ -8,3 +8,5 @@ Bei Landemissionen im Weltraum ist es wichtig, die Geschwindigkeit sowie Bewegun
 Wir möchten nun mit Hilfe der Frequenzverschiebung akustischer Signale durch den Dopplereffekt unsere Geschwindigkeit sowie Flugrichtung unseres CanSats bestimmen. 
 
 Dies wollen wir durch die Kombination mehrerer Schallquellen am Boden erreichen, welche auf verschiedenen bekannten Frequenzbereichen Geräusche erzeugen. Der Satellit analysiert die empfangenen Frequenzen und ermittelt anhand der auftretenden Frequenzverschiebung sowie den bekannten Standorten der Sender (Baken) seine aktuelle Position sowie Geschwindigkeit.
+
+{% include video id="0_PnyFxHWUY" provider="youtube" %}
