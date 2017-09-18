@@ -9,6 +9,8 @@ Hallo an alle! Wir sind das Team PosiTUne Saxonia!
 
 Wir sind begeistert von der Herausforderung, einen Satelliten zu bauen. Wir, das sind sieben Schüler, die sich zusammengetan haben, um beim [Deutschen CanSat-Wettbewerb 2017](http://cansat.de) mitzumachen.
 
+{% include video id="0_PnyFxHWUY" provider="youtube" %}
+
 # CanSat-Wettbewerb
 Vielleicht erklären wir euch erst einmal, was dieser „CanSat“ überhaupt ist.
 
