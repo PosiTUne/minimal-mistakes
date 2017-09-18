@@ -5,7 +5,7 @@ author_profile: true
 ---
 <figure class="align-right">
     <a href="/assets/images/Skizze_Sekundaermission.png"><img src="/assets/images/Skizze_Sekundaermission_300px.png" alt="Skizze der Sekundärmission"></a>
-    <figcaption style="width:300px;">Sekundärmission: Die Bewegung des CanSat wird mit einem Mikrofon an Bord und drei Schallquellen am Boden mit Hilfe Doppler-Effekts nachvollzogen.</figcaption>
+    <figcaption style="width:300px;">Sekundärmission: Die Bewegung des CanSat wird mit einem Mikrofon an Bord und drei Schallquellen am Boden mit Hilfe des Doppler-Effekts nachvollzogen.</figcaption>
 </figure>
 Bei Landemissionen im Weltraum ist es wichtig, die Geschwindigkeit sowie Bewegungsrichtung des Landers möglichst genau zu bestimmen. Hierfür existieren bereits verschiedene Systeme für den Einsatz im Vakuum.
 
