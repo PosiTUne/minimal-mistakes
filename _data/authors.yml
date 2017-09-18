@@ -45,6 +45,7 @@ Diego:
 
 Dominik:
     name            : "Dominik"
+    avatar          : "/assets/images/authors/dominik.jpg"
     bio             : "Konstruktion Satellit, Finanzierung"
     email           : "dominik@positune.space"
 
