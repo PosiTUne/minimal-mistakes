@@ -5,6 +5,11 @@ share: false
 ---
 Wir bedanken uns bei folgenden Sponsoren für die Unterstützung des Teams PosiTUne Saxonia:
 
+## Einzelpersonen 
+* Manuela Andrich
+
+## AATiS e.V.
+
 ## Konglomerat e.V.
 <figure style="width: 100%">
     <a href="http://konglomerat.org"><img src="/assets/images/sponsors/logo_knglmrt_600x577.jpg" alt="Logo des Konglomerat e.V."></a>
