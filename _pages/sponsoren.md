@@ -9,6 +9,10 @@ Wir bedanken uns bei folgenden Sponsoren für die Unterstützung des Teams PosiT
 * Manuela Andrich
 
 ## AATiS e.V.
+<figure style="width: 100%">
+    <a href="http://aatis.de"><img src="/assets/images/sponsors/aatis.png" alt="Logo des AATiS"></a>
+    <figcaption><i class="fa fa-fw fa-external-link" aria-hidden="true"></i> <a href="http://aatis.de">aatis.de</a></figcaption>
+</figure>
 
 ## Konglomerat e.V.
 <figure style="width: 100%">
