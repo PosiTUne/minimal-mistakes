@@ -107,8 +107,8 @@ author:
   avatar           : "/assets/images/PosiTUne_Logo_400px_40px.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "CanSat-Team 2017 des DLR_School_Lab TU Dresden"
   location         : # "Dresden"
-  email            : "team@positune.space"
-  pgp              : "/assets/keys/87F89D69_team@positune.space.asc" # "http://pgp.zdv.uni-mainz.de:11371/pks/lookup?op=vindex&search=0x947A9E0987F89D69"
+  email            : "dlr.school.lab@tu-dresden.de"
+#  pgp              : "/assets/keys/87F89D69_team@positune.space.asc" # "http://pgp.zdv.uni-mainz.de:11371/pks/lookup?op=vindex&search=0x947A9E0987F89D69"
   crowdfunding     : "https://www.99funken.de/http-www-cansat-de"
   flattr           : "off"
   links:

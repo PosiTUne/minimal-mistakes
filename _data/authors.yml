@@ -39,71 +39,71 @@ Diego:
     avatar          : "/assets/images/authors/diego.png"
     bio             : "Teambetreuer"
     location        : "Dresden"
-    email           : "diego@positune.space"
-    pgp             : "/assets/keys/D9D7AFC3_diego@positune.space.asc" # "http://pgp.zdv.uni-mainz.de:11371/pks/lookup?op=vindex&search=0x7792483AD9D7AFC3"
+    email           : "jahndiego+cansat@mailbox.org"
+    pgp             : "/assets/gpg/BFA87533_jahndiego+cansat@mailbox.org.asc"
     github          : "jdieg0"
 
 Dominik:
     name            : "Dominik"
     avatar          : "/assets/images/authors/dominik.jpg"
     bio             : "Konstruktion Satellit, Finanzierung"
-    email           : "dominik@positune.space"
+#    email           : "dominik@positune.space"
 
 Elias:
     name            : "Elias"
     bio             : "Soft- und Hardware Satellit"
-    email           : "elias@positune.space"
+#    email           : "elias@positune.space"
     github          : "onlyVPG"
 
 Fabian:
     name            : "Fabian"
     bio             : "Soft- und Hardware Satellit und Bodenstation"
-    email           : "fabian@positune.space"
+#    email           : "fabian@positune.space"
     github          : "fabi12341"
 
 Hauke:
     name            : "Haucke"
     bio             : "Software Satellit"
-    email           : "hauke@positune.space"
+#    email           : "hauke@positune.space"
 
 Jakob:
     name            : "Jakob"
     bio             : "Teambetreuer"
-    email           : "jakob@positune.space"
+#    email           : "jakob@positune.space"
 
 Jan:
     name            : "Jan"
     bio             : "Teambetreuer"
-    email           : "jan@positune.space"
+#    email           : "jan@positune.space"
 
 Janek:
     name            : "Janek"
     bio             : "Teamchef, Hardware, Bodenstation"
-    email           : "janek@positune.space"
+#    email           : "janek@positune.space"
     pgp             : "http://janek.scatterpoint.de/pgp.txt"
 
 Janina:
     name            : "Janina"
     bio             : "Leiterin DLR_School_Lab TU Dresden"
-    email           : "janina@positune.space"
+    email           : "Janina.Hahn@tu-dresden.de"
 
 Max:
     name            : "Max"
     bio             : "Konstruktion Satellit"
-    email           : "max@positune.space"
+#    email           : "max@positune.space"
     
 Stefan:
     name            : "Stefan"
     bio             : "Teambetreuer"
-    email           : "stefan@positune.space"
+#    email           : "stefan@positune.space"
 
 Till:
     name            : "Till"
     bio             : "Soft- und Hardware Satellit"
-    email           : "till@positune.space"
+#    email           : "till@positune.space"
     github          : "SpiritOfTill"
 
 Timon:
     name            : "Timon"
     bio             : "Software Satellit"
-    timon           : "timon@positune.space"
+#    email           : "timon@positune.space"
