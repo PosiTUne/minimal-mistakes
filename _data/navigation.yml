@@ -1,17 +1,17 @@
 # main links
 main:
-    - title: "Team"
-      url: /team/
-    - title: "Mission"
-      url: /mission/
+#    - title: "Team"
+#      url: /team/
+#    - title: "Mission"
+#      url: /mission/
     - title: "Dokumentation"
       url: /docs/
     - title: "Sponsoren"
       url: /sponsoren/
     - title: "Spenden"
       url: /spenden/
-    - title: "CanSat 2016"
-      url: /cansat-2016/
+    - title: "Alle CanSat-Teams"
+      url: /cansat/
     - title: "Archiv"
       url: /artikel/archiv/
     - title: "Impressum"
