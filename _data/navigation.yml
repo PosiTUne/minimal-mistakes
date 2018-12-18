@@ -31,7 +31,7 @@ docs:
     - title: "Allgemein"
       children:
         - title: "Home"
-          url: /docs/home/
+          url: /docs/
 #        - title: "Teamorganisation und Aufgabenverteilung"
 #        - title: "Missionsziele"
 #    - title: "Beschreibung des CanSat"
