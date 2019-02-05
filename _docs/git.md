@@ -47,9 +47,14 @@ Jetzt noch kurz sicherstellen, dass wir im lokalen Repo gerade im ```master```-B
 
 	git checkout master
 
-Und zu allerletzt der Rebase, um den lokalen ```master```-Branch auf den Stand des Upstream-Branches zu kriegen.
+Und noch den Rebase durchführen, um den lokalen ```master```-Branch auf den Stand des Upstream-Branches zu kriegen.
 
 	git rebase upstream/master
+
+Zum Schluss muss noch die lokale Änderung zum entfernten Repository auf GitHub transferiert werden (das Flag ```-f``` muss nur das erste Mal nach dem Rebase gesetzt werden).
+
+	git push -f origin master
+
 
 [comment]: # (### Konflikte)
 
