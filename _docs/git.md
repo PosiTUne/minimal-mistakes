@@ -17,7 +17,7 @@ Warum Forks updaten? Die CanSat-Webseite leitet sich vom Theme [Minimal Mistakes
 
 <figure>
     <a href="/assets/images/docs/git/github_branch_ahead+behind.png"><img src="/assets/images/docs/git/github_branch_ahead+behind.png" alt="Screenshot eines GitHub-Repos mit dem Hinweis 'This branch is 1 commit ahead, 3 commits behind PosiTUne:master.'"></a>
-    <figcaption>Beispiel für einen Fork, der nicht mehr mit dem Original-Repo übereinstimmt. <i>(<a href="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</a>)</i>.</figcaption>
+    <figcaption>Beispiel für einen Fork, der nicht mehr mit dem Original-Repo (hier <i>PosiTUne:master</i>) übereinstimmt. <i>(<a href="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</a>)</i>.</figcaption>
 </figure>
 
 Das muss kein Problem sein, denn in aller Regel wird unsere Webseite weiter funktionieren, nur kriegen wir nicht automatisch alle Commits und damit Verbesserungen des Ursprungs-Repos eingespielt.
@@ -54,6 +54,13 @@ Und den Rebase durchführen, um den lokalen ```master```-Branch auf den Stand de
 Zum Schluss muss noch die lokale Änderung zum entfernten Repository auf GitHub transferiert werden (das Flag ```-f``` muss nur das erste Mal nach dem Rebase gesetzt werden).
 
 	git push -f origin master
+
+Beim eigenen Repo auf GitHub steht nun wieder, bspw. wenn das Remote-Repo *PosiTUne:master* heißt: *This branch is even with PosiTUne:master.*
+
+<figure>
+    <a href="/assets/images/docs/git/github_branch_ahead+behind.png"><img src="/assets/images/docs/git/github_branch_even.png" alt="Screenshot eines GitHub-Repos mit dem Hinweis 'This branch is even with PosiTUne:master.'"></a>
+    <figcaption>Beispiel-Fork, der wieder auf dem selben Stand ist wie das Remote-Repo (hier <i>PosiTUne:master</i>). <i>(<a href="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</a>)</i>.</figcaption>
+</figure>
 
 
 [comment]: # (### Konflikte)
