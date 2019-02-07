@@ -56,3 +56,5 @@ docs:
           url: /docs/arduino/
         - title: "Raspberry Pi"
           url: /docs/raspberrypi/
+        - title: "Git"
+          url: /docs/git/
