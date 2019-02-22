@@ -58,3 +58,5 @@ docs:
           url: /docs/raspberrypi/
         - title: "Git"
           url: /docs/git/
+        - title: "Gaschromatograph"
+          url: /docs/gaschromatograph/
